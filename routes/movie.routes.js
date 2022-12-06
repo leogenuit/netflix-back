@@ -2,6 +2,7 @@ const router = require("express").Router();
 const isAdmin = require("../middlewares/isAdmin.middleware");
 const protectRoute = require("../middlewares/protectRoute");
 const Movie = require("./../models/Movie.model");
+const Category = require("./../models/Category.model");
 
 // ALL MOVIES
 router.get("/movies", async (req, res, next) => {
@@ -16,7 +17,8 @@ router.get("/movies", async (req, res, next) => {
 // ONE MOVIE
 router.get("/movies/:id", async (req, res, next) => {
   try {
-    const oneMovie = await Movie.findById(req.params.id);
+    console.log(req.params.id);
+    const oneMovie = await Movie.findById(req.params.id).populate("category");
     res.status(200).json(oneMovie);
   } catch (error) {
     next(error);
@@ -28,11 +30,13 @@ router.use(isAdmin);
 
 // CREATE A MOVIE
 router.post("/movies", async (req, res, next) => {
-  const { title, description, img, video, year } = req.body;
+  const { title, description, category, img, video, year } = req.body;
+
   const movie = await Movie.create({
     title,
     description,
     img,
+    category,
     video,
     year,
   });

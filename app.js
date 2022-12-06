@@ -24,6 +24,7 @@ app.use(
 app.use("/api/auth", require("./routes/auth.routes"));
 app.use("/api", require("./routes/index.routes"));
 app.use("/api", require("./routes/movie.routes"));
+app.use("/api", require("./routes/category.routes"));
 
 require("./error-handling/index")(app);
 

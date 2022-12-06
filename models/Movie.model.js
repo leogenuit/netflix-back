@@ -17,6 +17,12 @@ const movieSchema = new Schema(
     year: {
       type: String,
     },
+    category: [
+      {
+        type: Schema.Types.ObjectId,
+        ref: "Category",
+      },
+    ],
   },
   {
     timestamps: true,

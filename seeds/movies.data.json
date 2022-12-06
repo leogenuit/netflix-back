@@ -2,85 +2,97 @@
   {
     "title": "Titanic",
     "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "description": "Southampton, April 10, 1912. The world's largest and most modern ocean liner, renowned for its unsinkability, the Titanic, set sail on its maiden voyage. Four days later, it hits an iceberg. On board, a poor artist and a middle-class woman fall in love.",
+    "video": "Quf4qIkD3KY",
+    "year": "1998",
+    "category": ["Tragedie", "Dramatique"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Toy Story 4",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/image_bf8739ba.jpeg",
+    "description": "Woody has always put the happiness and well-being of his young owners - Andy and then Bonnie - and his companions first, not hesitating to take any risk for them, no matter how inconsiderate. The arrival of Fork, a new toy that doesn't want to be a toy, in Bonnie's room puts the whole gang in a tizzy. This is the beginning of a great adventure and an extraordinary journey for Woody and his friends. The cowboy will discover how vast the world can be for a toy...",
+    "video": "ZoIxOE74wBw",
+    "year": "2019",
+    "category": ["Anime", "Comedie"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Nemo",
+    "img": "https://i0.wp.com/www.filmspourenfants.net/wp-content/uploads/2018/05/le-monde-de-nemo-a.jpg",
+    "description": "In the tropical waters of the Great Barrier Reef, a clownfish named Marin leads a peaceful existence with his only son, Nemo. Fearing the ocean and its unpredictable risks, he does his best to protect his son.",
+    "video": "XtAnXfDIBqY",
+    "year": "2003",
+    "category": ["Anime"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Avengers",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/p_avengersinfinitywar_19871_cb171514.jpeg",
+    "description": "With Thanos having wiped out half the universe, the remaining Avengers close ranks in this twenty-second Marvel Studios film, a grand conclusion to one of the chapters in the Marvel Cinematic Universe.",
+    "video": "6ZfuNTqbHE8",
+    "year": "2019",
+    "category": ["Super-Heros", "Sciences-Fiction"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Interstellar",
+    "img": "https://fr.web.img6.acsta.net/pictures/14/09/24/12/08/158828.jpg",
+    "description": "The film tells the adventures of a group of explorers who use a recently discovered rift in space-time to push back human limits and conquer astronomical distances in an interstellar journey.",
+    "video": "VaOijhK3CRU",
+    "year": "2014",
+    "category": ["Sciences-Fiction"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Le dernier Jedi",
+    "img": "https://images.ladepeche.fr/api/v1/images/view/5c3731f33e45466e61296d79/full/image.jpg",
+    "description": "The heroes of The Force Awakens join the galaxy's legendary figures in an epic adventure that reveals ancient secrets about the Force and leads to startling revelations about the past...",
+    "video": "wY708Ky2SG8",
+    "year": "2017",
+    "category": ["Sciences-Fiction"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "La Ligne Verte",
+    "img": "https://fr.web.img4.acsta.net/medias/nmedia/18/66/15/78/19254683.jpg",
+    "description": "Paul Edgecomb, a centenarian resident of a retirement home, is haunted by his memories. In 1935, he was the head guard at Cold Mountain Penitentiary. His job was to ensure that the executions went smoothly and that the last moments of the condemned men and women went smoothly. Among them was a colossus by the name of John Coffey, accused of the rape and murder of two young girls. Intrigued by this candid and shy man with magical gifts, Edgecomb is going to weave a very strong bond with him.",
+    "video": "xYM4wJJpR9M",
+    "year": "2000",
+    "category": ["Tragedie", "Dramatique"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
+    "title": "Les Visiteurs La Révolution",
+    "img": "https://fr.web.img3.acsta.net/pictures/16/02/11/12/55/124820.jpg",
     "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "video": "Rb8NGv7EwFw",
+    "year": "2016",
+    "category": ["Comedie", "Comique"]
   },
   {
-    "title": "SpiderMan",
+    "title": "Spider-Man",
     "img": "https://fr.web.img6.acsta.net/medias/nmedia/18/83/19/35/20158079.jpg",
     "description": "A movie about SpiderMan",
     "video": "7w_w10HVa54",
-    "year": "1995"
+    "year": "1995",
+    "category": ["Super-Heros"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Qu'est-ce qu'on a tous fait au bon Dieu ?",
+    "img": "https://fr.web.img2.acsta.net/pictures/14/03/04/14/58/474265.jpg",
+    "description": "It is soon the 40th wedding anniversary of Claude and Marie Verneuil. For this occasion, their four daughters decide to organize a big surprise party in the family house in Chinon and to invite the parents of each of the sons-in-law, for a few days. Claude and Marie will have to welcome under their roof the parents of Rachid, David, Chao and Charles: this family stay promises to be eventful.",
+    "video": "QerOPic11Tk",
+    "year": "2022",
+    "category": ["Comedie", "Comique"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Sherlock Holmes",
+    "img": "https://www.ecranlarge.com/uploads/image/001/267/momkkuwburntqkbf6ez7rvhyvhe-417.jpg",
+    "description": "No enigma can resist Sherlock Holmes for long... Flanked by his faithful friend Doctor John Watson, the intrepid and legendary detective relentlessly hunts down criminals of all stripes. His weapons: an acute sense of observation and deduction, an erudition and a curiosity in all directions; incidentally, a formidable right...",
+    "video": "lLuhWLNqpiA",
+    "year": "2009",
+    "category": ["Policier"]
   },
   {
-    "title": "Titanic",
-    "img": "https://fr.web.img2.acsta.net/pictures/19/10/25/11/18/5224976.jpg",
-    "description": "A movie about Titanic",
-    "video": "A Link to a video",
-    "year": "1995"
+    "title": "Le Parrain",
+    "img": "https://fr.web.img2.acsta.net/pictures/22/01/14/08/39/1848157.jpg",
+    "description": "In 1945, in New York, the Corleones are one of the five Mafia families. Don Vito Corleone marries his daughter to a bookmaker. Sollozzo, godfather of the Tattaglia family, proposes to Don Vito an association in drug trafficking... ",
+    "video": "bmtuIhesQWA",
+    "year": "1972",
+    "category": ["Policier"]
   }
 ]
