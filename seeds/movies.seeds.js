@@ -5,10 +5,12 @@ const categories = require("./category.js");
 const Category = require("../models/Category.model");
 const Movie = require("../models/Movie.model");
 const mongoose = require("mongoose");
+const Favoris = require("../models/Favoris.model");
 
 async function seed() {
   await Movie.deleteMany();
   await Category.deleteMany();
+  await Favoris.deleteMany();
 
   const createdCategories = await Category.create(
     categories.map((category) => {
